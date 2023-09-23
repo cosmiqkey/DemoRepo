@@ -1,3 +1,2 @@
 Hello,
-this is first line in local machine
-this is second line
+I deleted two lines
