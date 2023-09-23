@@ -1,3 +1,6 @@
 Hello,
 this is first line in local machine
-this is second line
+this is second line.
+
+
+This line is dev branch exclusive
